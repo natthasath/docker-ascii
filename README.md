@@ -13,7 +13,7 @@ $ docker run -it fsdotnet/ascii-docker
 * cmatrix
 
 ## How to use
-* figlet
+#### figlet
 ```bash
 $ figlet [text]
 ```
