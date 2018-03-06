@@ -3,10 +3,11 @@ FROM ubuntu:latest
 MAINTAINER fsdotnet <fsdotnetdev@gmail.com>
 
 # Update & Upgrade Ubuntu
-RUN apt-get -y update && apt-get -y upgrade
+RUN apt-get -y update 
+RUN apt-get -y upgrade
 
-# Install ASCII Package (figlet, jp2a, cmatrix)
-RUN apt-get -y install figlet jp2a cmatrix
+# Install ASCII Package (figlet, jp2a, toilet, cmatrix)
+RUN apt-get -y install figlet jp2a toilet cmatrix
 
 # Install Tool Package (git)
 RUN apt-get -y install git  
