@@ -1,5 +1,5 @@
 # ASCII Docker
-ASCII Dockerfile usage create ascii art and ascii charecter for documentation
+ASCII Dockerfile is pack component usage create ascii art and ascii charecter for documentation. This docker image uses base image is ubuntu 16.04
 
 ## Pull
 ```bash
