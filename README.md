@@ -78,8 +78,8 @@ q @ 5       B h :   c K     n *   \         @     q   9 1     `   @       Y >
     ) P / :       T   k c t ( 1 0   .   G G e   I   .         4   ; B @ i     |
     - z g B       i   3 v j A ! i   I   b l $   @   L         o   n L 8 \   ^ c
     ( # C l       \   E > ; * < B   Q   E   Q   _   Q         A     x _ ?   e E
-    
+
 ```
 
 ## Licese
-Webneena License.
+Codeinsane License.
