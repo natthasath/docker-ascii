@@ -3,17 +3,17 @@ ASCII Dockerfile is pack component usage create ascii art and ascii charecter fo
 
 ## Pull
 ```bash
-$ docker pull fsdotnet/ascii-docker
+$ docker pull natthasath/ascii-docker
 ```
 
 ## Build
 ```bash
-$ docker build -t fsdotnet/ascii-docker
+$ docker build -t natthasath/ascii-docker
 ```
 
 ## Run
 ```bash
-$ docker run -it fsdotnet/ascii-docker
+$ docker run -it natthasath/ascii-docker
 ```
 
 ## Package
