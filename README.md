@@ -1,18 +1,10 @@
 # ASCII Docker
 ASCII Dockerfile is pack component usage create ascii art and ascii charecter for documentation. This docker image uses base image is ubuntu 16.04
 
-## Pull
-```bash
-$ docker pull natthasath/ascii-docker
-```
-
-## Build
-```bash
-$ docker build -t natthasath/ascii-docker
-```
-
 ## Run
 ```bash
+$ docker pull natthasath/ascii-docker
+$ docker build -t natthasath/ascii-docker
 $ docker run -it natthasath/ascii-docker
 ```
 
@@ -81,5 +73,5 @@ q @ 5       B h :   c K     n *   \         @     q   9 1     `   @       Y >
 
 ```
 
-## Licese
-Codeinsane License.
+## License
+MIT License.
