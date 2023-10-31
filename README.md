@@ -1,20 +1,26 @@
-# ASCII Docker
-ASCII Dockerfile is pack component usage create ascii art and ascii charecter for documentation. This docker image uses base image is ubuntu 16.04
+# 🎉 Docker ASCII
 
-## Run
+ASCII art is visual art created using ASCII characters. It's a form of digital expression where letters, numbers, and symbols are arranged to form images, designs, and patterns.
+
+![version](https://img.shields.io/badge/version-1.0-blue)
+![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
+![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
+
+
+### 🏆 Run
 ```bash
-$ docker pull natthasath/ascii-docker
-$ docker build -t natthasath/ascii-docker
-$ docker run -it natthasath/ascii-docker
+$ docker pull natthasath/docker-ascii
+$ docker build -t natthasath/docker-ascii
+$ docker run -it natthasath/docker-ascii
 ```
 
-## Package
+### ⭐ Package
 * figlet
 * jp2a
 * toilet
 * cmatrix
 
-## How to use
+### 👉🏻 Try it out
 #### figlet
 ```bash
 $ figlet [text]
@@ -72,6 +78,3 @@ q @ 5       B h :   c K     n *   \         @     q   9 1     `   @       Y >
     ( # C l       \   E > ; * < B   Q   E   Q   _   Q         A     x _ ?   e E
 
 ```
-
-## License
-MIT License.
