@@ -10,7 +10,7 @@ ASCII art is visual art created using ASCII characters. It's a form of digital e
 ### 🏆 Run
 ```bash
 $ docker pull natthasath/docker-ascii
-$ docker build -t natthasath/docker-ascii
+$ docker build -it natthasath/docker-ascii
 $ docker run -it natthasath/docker-ascii
 ```
 
